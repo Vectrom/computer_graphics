@@ -1,1 +1,14 @@
+# Fundamentals of Computer Graphics
+
+
+|Number|Task description|Solution|
+|:----:|:--------------:|:------:|
+| 1 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab1/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab1/) |
+| 2 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab2/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab2/) |
+| 3 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab3/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab3/) |
+| 4 | soon | soon |
+| 5 | soon | soon |
+| 6 | soon | soon |
+| 7 | soon | soon |
+| 8 | soon | soon |
 
