@@ -9,6 +9,6 @@
 | 4 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab4/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab4/) |
 | 5 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab5/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab5/) |
 | 6 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab6/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab6/) |
-| 7 | soon | soon |
-| 8 | soon | soon |
+| 7 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab7/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab7/) |
+| 8 | [Description](https://github.com/Vectrom/computer_graphics/blob/master/lab8/task.pdf) | [Solution](https://github.com/Vectrom/computer_graphics/blob/master/lab8/) |
 
